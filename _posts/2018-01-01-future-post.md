@@ -1,7 +1,7 @@
 ---
 title: 'Future Blog Post modified'
 date: 2018-01-01
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/2018/01/blog-post-4/
 tags:
   - cool posts
   - category1
