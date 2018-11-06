@@ -1,19 +1,18 @@
 ---
 title: "Word embeddings and convolutional neural network for arabic sentiment classification"
 collection: publications
-permalink: /publication/2016-10-01-paper-1
-excerpt: ''
+permalink: /publication/Coling2016-we-cnn-Arabic-SA
+#excerpt: 'paper description to be shown in main publication page'
 date: 2016-10-01
 venue: 'Coling'
-#paperurl: ''
+#paperurl: 'http://dahouabdelghani.github.io/files/C16-1228.pdf'
+#citation: 'Dahou, A., Xiong, S., Zhou, J., Haddoud, M. H., & Duan, P. &quot;Word embeddings and convolutional neural network for arabic sentiment classification.&quot; <i>Coling</i>. 1(1).'
 ---
 In this paper, a scheme of Arabic sentiment classification, which evaluates and detects the sentiment polarity from Arabic reviews and Arabic social media, is studied.  We investigated in several architectures to build a quality neural word embeddings using a 3.4 billion words corpus from a collected 10 billion words web-crawled corpus.   Moreover,  a convolutional neural network trained on top of pre-trained Arabic word embeddings is used for sentiment classification to evaluate the quality of these word embeddings.
 
 [Download paper here](http://dahouabdelghani.github.io/files/C16-1228.pdf)
 
-[Download paper here](https://www.aclweb.org/anthology/C/C16/C16-1228.pdf)
-
-[Download data and codes here](https://drive.google.com/open?id=0B2WzDD9FC2KXRHlYNjYxUmowRW8)
+[Github repo](https://github.com/dahouabdelghani/arabic_word_embeddings_CNN)
 
 
 Recommended citation: Dahou, A., Xiong, S., Zhou, J., Haddoud, M. H., & Duan, P. "Word embeddings and convolutional neural network for arabic sentiment classification." <i>(Coling 2016)</i>.
