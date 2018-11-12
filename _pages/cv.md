@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in computer science and intelligent systems from the University of Ahmad Draia, Adrar, Algeria in 2012
+* M.S. in computer science and intelligent systems from the University of Ahmad Draia, Adrar, Algeria in 2014
+* Ph.D in computer science at Wuhan University of Technology, Wuhan, Hubei, China. 2019 (expected)
 
-Work experience
+<!-- Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -56,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
