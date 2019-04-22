@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Abdelghani Dahou"
   avatar           : "profile.png"
-  bio              : "Phd student in Wuhan University of Technology - Deep learnin - NLP - Arabic language processing"
+  bio              : "Phd student at Wuhan University of Technology - Deep learning - NLP - Arabic language processing"
   location         : "Wuhan, Hubei, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=ttDjZWoAAAAJ&hl=en"
@@ -99,13 +99,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-4561-2185"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : #""
   vine             :
   weibo            :
   xing             :
