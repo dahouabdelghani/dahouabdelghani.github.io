@@ -1,5 +1,5 @@
 ---
-title: "Word embeddings and convolutional neural network for arabic sentiment classification"
+title: "Word Embeddings and Convolutional Neural Network for Arabic Sentiment Classification"
 collection: publications
 permalink: /publication/Coling2016-we-cnn-Arabic-SA
 #excerpt: 'paper description to be shown in main publication page'
@@ -15,4 +15,4 @@ In this paper, a scheme of Arabic sentiment classification, which evaluates and 
 [Github repo](https://github.com/dahouabdelghani/arabic_word_embeddings_CNN)
 
 
-Recommended citation: Dahou, A., Xiong, S., Zhou, J., Haddoud, M. H., & Duan, P. "Word embeddings and convolutional neural network for arabic sentiment classification." <i>(Coling 2016)</i>.
+Recommended citation: Dahou, A., Xiong, S., Zhou, J., Haddoud, M. H., & Duan, P. "Word Embeddings and Convolutional Neural Network for Arabic Sentiment Classification." <i>(Coling 2016)</i>.
