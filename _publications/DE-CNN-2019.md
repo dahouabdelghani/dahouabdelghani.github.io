@@ -12,7 +12,7 @@ In this paper, we address this problem by combining differential evolution (DE) 
 
 [Download paper here](https://www.hindawi.com/journals/cin/2019/2537689/)
 
-[Github repo (Being prepared)](https://github.com/dahouabdelghani/)
+[Github repo](https://github.com/dahouabdelghani/DE-CNN)
 
 
 Recommended citation: Abdelghani Dahou, Mohamed Abd Elaziz, Junwei Zhou, and Shengwu Xiong, “Arabic Sentiment Classification Using Convolutional Neural Network and Differential Evolution Algorithm,” Computational Intelligence and Neuroscience, vol. 2019, Article ID 2537689, 16 pages, 2019. https://doi.org/10.1155/2019/2537689.
