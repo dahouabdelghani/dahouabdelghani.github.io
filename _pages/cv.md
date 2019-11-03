@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in computer science and intelligent systems from the University of Ahmad Draia, Adrar, Algeria in 2012
 * M.S. in computer science and intelligent systems from the University of Ahmad Draia, Adrar, Algeria in 2014
-* Ph.D in computer science at Wuhan University of Technology, Wuhan, Hubei, China. 2019 (expected)
+* Ph.D in computer science at Wuhan University of Technology, Wuhan, Hubei, China. 2019
 
 <!-- Work experience
 ======
